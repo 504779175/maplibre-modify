@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.maplibre.gl</groupId>
+  <artifactId>android-sdk</artifactId>
+  <versioning>
+    <latest>10.3.1-modify</latest>
+    <release>10.3.1-modify</release>
+    <versions>
+      <version>10.3.1-modify</version>
+      <version>11.0.1-modify</version>
+    </versions>
+    <lastUpdated>20240730055751</lastUpdated>
+  </versioning>
+</metadata>
